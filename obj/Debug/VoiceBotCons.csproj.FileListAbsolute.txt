@@ -1,0 +1,6 @@
+c:\users\centech\documents\visual studio 2017\Projects\VoiceBotCons\VoiceBotCons\bin\Debug\VoiceBotCons.exe.config
+c:\users\centech\documents\visual studio 2017\Projects\VoiceBotCons\VoiceBotCons\bin\Debug\VoiceBotCons.exe
+c:\users\centech\documents\visual studio 2017\Projects\VoiceBotCons\VoiceBotCons\bin\Debug\VoiceBotCons.pdb
+c:\users\centech\documents\visual studio 2017\Projects\VoiceBotCons\VoiceBotCons\obj\Debug\VoiceBotCons.csprojResolveAssemblyReference.cache
+c:\users\centech\documents\visual studio 2017\Projects\VoiceBotCons\VoiceBotCons\obj\Debug\VoiceBotCons.exe
+c:\users\centech\documents\visual studio 2017\Projects\VoiceBotCons\VoiceBotCons\obj\Debug\VoiceBotCons.pdb
